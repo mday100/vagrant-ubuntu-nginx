@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/apple/Desktop/Pluralsight/Vagrant Versioning Environments/nginx","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant/www":{"guestpath":"/vagrant/www","hostpath":"/Users/apple/Desktop/Pluralsight/Vagrant Versioning Environments/nginx/www","disabled":false,"__vagrantfile":true},"/vagrant/sites-enabled":{"guestpath":"/vagrant/sites-enabled","hostpath":"/Users/apple/Desktop/Pluralsight/Vagrant Versioning Environments/nginx/sites-enabled","disabled":false,"__vagrantfile":true}}}
